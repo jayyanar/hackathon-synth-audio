@@ -1,8 +1,5 @@
-┌──────────┬────────────────────┐
-│ Source   │      URL           │ 
-├──────────┼────────────────────┤
-│Kaggle 
-Size 4GB   │https://www.kaggle.com/datasets/birdy654/deep-voice-deepfake-voice-recognition          │
-├──────────┼────────────────────┤
-│     │super awesome       │
-└──────────┴────────────────────┘
+# **Synthetic Voice Dataset**
+
+**Source**: Kaggle
+**URL**: https://www.kaggle.com/datasets/birdy654/deep-voice-deepfake-voice-recognition  
+**Size** : 4GB
