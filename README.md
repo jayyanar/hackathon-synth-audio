@@ -6,3 +6,11 @@
 
 **Size** : 4GB
 ----------------------------------------------------------------------------------------------
+
+Wonderful tool to create Synthetic Data
+
+
+https://audiobox.metademolab.com/capabilities/tts_description_condition
+
+
+----------------------------------------------------------------------------------------------
